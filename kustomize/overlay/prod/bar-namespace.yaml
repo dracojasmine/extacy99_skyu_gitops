@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_9e8bff56-f4a5-46ad-bbf7-84f4671b2add
+    project-id: project_56804bda-d0aa-477f-8ae6-c719f65981c4
+    project-name: extacy99
+    environment-name: prod
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6

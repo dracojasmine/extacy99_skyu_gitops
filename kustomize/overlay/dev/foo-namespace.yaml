@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_3d8405ab-4a25-44f2-852a-1b828dcb3e49
+    project-id: project_56804bda-d0aa-477f-8ae6-c719f65981c4
+    project-name: extacy99
+    environment-name: dev
+    organization-id: org_e7c66bba-9ba1-48d7-bcc3-803475c3b4b6
